@@ -1,0 +1,30 @@
+C:\Users\Пользователь\Desktop\c#\с#_srminar 2\ДЗ_2\ДЗ_2_задача 10\obj\Debug\net6.0\ДЗ_2_задача 10.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\c#\с#_srminar 2\ДЗ_2\ДЗ_2_задача 10\obj\Debug\net6.0\ДЗ_2_задача 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\c#\с#_srminar 2\ДЗ_2\ДЗ_2_задача 10\obj\Debug\net6.0\ДЗ_2_задача 10.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\c#\с#_srminar 2\ДЗ_2\ДЗ_2_задача 10\obj\Debug\net6.0\ДЗ_2_задача 10.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\c#\с#_srminar 2\ДЗ_2\ДЗ_2_задача 10\obj\Debug\net6.0\ДЗ_2_задача 10.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\c#\с#_srminar 2\ДЗ_2\ДЗ_2_задача 10\bin\Debug\net6.0\ДЗ_2_задача 10.exe
+C:\Users\Пользователь\Desktop\c#\с#_srminar 2\ДЗ_2\ДЗ_2_задача 10\bin\Debug\net6.0\ДЗ_2_задача 10.deps.json
+C:\Users\Пользователь\Desktop\c#\с#_srminar 2\ДЗ_2\ДЗ_2_задача 10\bin\Debug\net6.0\ДЗ_2_задача 10.runtimeconfig.json
+C:\Users\Пользователь\Desktop\c#\с#_srminar 2\ДЗ_2\ДЗ_2_задача 10\bin\Debug\net6.0\ДЗ_2_задача 10.dll
+C:\Users\Пользователь\Desktop\c#\с#_srminar 2\ДЗ_2\ДЗ_2_задача 10\bin\Debug\net6.0\ДЗ_2_задача 10.pdb
+C:\Users\Пользователь\Desktop\c#\с#_srminar 2\ДЗ_2\ДЗ_2_задача 10\obj\Debug\net6.0\ДЗ_2_задача 10.dll
+C:\Users\Пользователь\Desktop\c#\с#_srminar 2\ДЗ_2\ДЗ_2_задача 10\obj\Debug\net6.0\refint\ДЗ_2_задача 10.dll
+C:\Users\Пользователь\Desktop\c#\с#_srminar 2\ДЗ_2\ДЗ_2_задача 10\obj\Debug\net6.0\ДЗ_2_задача 10.pdb
+C:\Users\Пользователь\Desktop\c#\с#_srminar 2\ДЗ_2\ДЗ_2_задача 10\obj\Debug\net6.0\ДЗ_2_задача 10.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\c#\с#_srminar 2\ДЗ_2\ДЗ_2_задача 10\obj\Debug\net6.0\ref\ДЗ_2_задача 10.dll
+C:\Users\Пользователь\Desktop\c#\с#_srminar 2\ДЗ_2\ДЗ_2_задача 10_как написать формулу для вывода второго числа\bin\Debug\net6.0\ДЗ_2_задача 10.exe
+C:\Users\Пользователь\Desktop\c#\с#_srminar 2\ДЗ_2\ДЗ_2_задача 10_как написать формулу для вывода второго числа\bin\Debug\net6.0\ДЗ_2_задача 10.deps.json
+C:\Users\Пользователь\Desktop\c#\с#_srminar 2\ДЗ_2\ДЗ_2_задача 10_как написать формулу для вывода второго числа\bin\Debug\net6.0\ДЗ_2_задача 10.runtimeconfig.json
+C:\Users\Пользователь\Desktop\c#\с#_srminar 2\ДЗ_2\ДЗ_2_задача 10_как написать формулу для вывода второго числа\bin\Debug\net6.0\ДЗ_2_задача 10.dll
+C:\Users\Пользователь\Desktop\c#\с#_srminar 2\ДЗ_2\ДЗ_2_задача 10_как написать формулу для вывода второго числа\bin\Debug\net6.0\ДЗ_2_задача 10.pdb
+C:\Users\Пользователь\Desktop\c#\с#_srminar 2\ДЗ_2\ДЗ_2_задача 10_как написать формулу для вывода второго числа\obj\Debug\net6.0\ДЗ_2_задача 10.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\c#\с#_srminar 2\ДЗ_2\ДЗ_2_задача 10_как написать формулу для вывода второго числа\obj\Debug\net6.0\ДЗ_2_задача 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\c#\с#_srminar 2\ДЗ_2\ДЗ_2_задача 10_как написать формулу для вывода второго числа\obj\Debug\net6.0\ДЗ_2_задача 10.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\c#\с#_srminar 2\ДЗ_2\ДЗ_2_задача 10_как написать формулу для вывода второго числа\obj\Debug\net6.0\ДЗ_2_задача 10.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\c#\с#_srminar 2\ДЗ_2\ДЗ_2_задача 10_как написать формулу для вывода второго числа\obj\Debug\net6.0\ДЗ_2_задача 10.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\c#\с#_srminar 2\ДЗ_2\ДЗ_2_задача 10_как написать формулу для вывода второго числа\obj\Debug\net6.0\ДЗ_2_задача 10.dll
+C:\Users\Пользователь\Desktop\c#\с#_srminar 2\ДЗ_2\ДЗ_2_задача 10_как написать формулу для вывода второго числа\obj\Debug\net6.0\refint\ДЗ_2_задача 10.dll
+C:\Users\Пользователь\Desktop\c#\с#_srminar 2\ДЗ_2\ДЗ_2_задача 10_как написать формулу для вывода второго числа\obj\Debug\net6.0\ДЗ_2_задача 10.pdb
+C:\Users\Пользователь\Desktop\c#\с#_srminar 2\ДЗ_2\ДЗ_2_задача 10_как написать формулу для вывода второго числа\obj\Debug\net6.0\ДЗ_2_задача 10.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\c#\с#_srminar 2\ДЗ_2\ДЗ_2_задача 10_как написать формулу для вывода второго числа\obj\Debug\net6.0\ref\ДЗ_2_задача 10.dll
